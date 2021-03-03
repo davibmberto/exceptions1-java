@@ -49,7 +49,7 @@ public class Program1 {
 				System.out.println("Reservation: " + reservation);
 			}
 		}
-
+//guess wat
 		sc.close();
 	}
 
